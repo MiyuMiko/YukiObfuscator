@@ -1,0 +1,3 @@
+# Public or externally visible names can be listed here.
+result
+globalCount
